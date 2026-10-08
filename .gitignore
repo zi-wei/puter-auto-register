@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+*.jsonl
+accounts*.txt
+tokens*.txt
+.env
+venv/
+.venv/
+puter_accounts.jsonl
+puter_ok.txt
+xray
+*.zip
